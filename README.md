@@ -15,12 +15,11 @@ The structure of the developed design tool is based on Java EMF (Eclipse Modelin
 Figure below sketches this structure where the abstract syntax of COMORP have been implemented using Ecore meta-modeling language and the implementation of concrete syntax is based on Sirius framework. Thanks to Sirius and Ecore plugins, users of COMORP language can instantiate their cost models in a user-friendly manner by using the Tree editor and suitable properties tab. 
 Through to the design tool, every cost model instance is saved as an XMI (XML Metadata Interchange  file, hence every CM become a machine-interpretable entity which can be exploited via several usage.
 
-![image](https://user-images.githubusercontent.com/42803883/218848846-fb891df6-fd5a-4cde-89fe-c22fcea0d6d6.png)
+![image](https://user-images.githubusercontent.com/42803883/218849390-e9728057-a38b-4035-81e4-509143b570d2.png)
 
 Furthermore, to develop the front-end side of our design tool, we  have developed a web user interface that provides a designing work-space divided into four parts (see Figure \ref{fig:toolSimCost2}): (1) Context and Design Question, (2) Parameters Analysis, (3) CM Construction and (4) Results-Reports and Cost Exploration. 
 
-![image](https://user-images.githubusercontent.com/42803883/185498629-8297a5ca-9fb5-45a3-ad21-5b8096488957.png)
-
+![image](https://user-images.githubusercontent.com/42803883/218848962-e37eeabd-65f9-4604-8538-d1ade65e4b25.png)
 ## Further improvements
 
 If you wish, you're welcome to participate in the Explain-Tun or to make suggestions ! 
